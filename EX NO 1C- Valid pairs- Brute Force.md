@@ -20,8 +20,8 @@ x if x >= 0.
 ## Program:
 ```
 Program to implement Reverse a String
-Developed by: Krishna Prasad S
-Register Number: 212223230108
+Developed by: Pradeep Kumar G
+Register Number: 212223230150
 ```
 ```
 import java.util.*;
